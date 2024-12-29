@@ -1,0 +1,6 @@
+coding is nice
+file in write modehi! i am penguin .i am 1 year old
+ file is in appended mode...hi! i am a penguin.i am 1 year old
+coding is in append mode
+ it is nice
+coding has good job opportunities
